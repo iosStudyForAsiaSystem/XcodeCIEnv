@@ -448,6 +448,7 @@
 				DEVELOPMENT_TEAM = RRN279NX3J;
 				FRAMEWORK_SEARCH_PATHS = "/Users/snowman/Documents/FacebookSDKs-iOS-4.19.0/";
 				INFOPLIST_FILE = facebookLinkSample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.futurelinegen.facebookLinkSample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -462,6 +463,7 @@
 				DEVELOPMENT_TEAM = RRN279NX3J;
 				FRAMEWORK_SEARCH_PATHS = "/Users/snowman/Documents/FacebookSDKs-iOS-4.19.0/";
 				INFOPLIST_FILE = facebookLinkSample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.futurelinegen.facebookLinkSample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
